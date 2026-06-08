@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zambeancoffeeco.com/sitemap.xml

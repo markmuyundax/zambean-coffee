@@ -1,0 +1,26 @@
+[
+  {
+    "id": "evt-01",
+    "title": "Live Jazz Sunday",
+    "date": "2026-06-21",
+    "description": "Live jazz trio in the garden from 2PM. Special cocktail menu. Booking essential.",
+    "image": "https://images.unsplash.com/photo-1511192336575-5a79af67a629?w=800&h=500&fit=crop",
+    "price": "Free entry — table reservation required"
+  },
+  {
+    "id": "evt-02",
+    "title": "Coffee Tasting Workshop",
+    "date": "2026-07-05",
+    "description": "Learn to taste coffee like a pro. Covers origins, roasting, and brewing. Includes 250g bag.",
+    "image": "https://images.unsplash.com/photo-1507133750040-4a8f57021571?w=800&h=500&fit=crop",
+    "price": "K200 per person"
+  },
+  {
+    "id": "evt-03",
+    "title": "Valentine's Dinner — Garden Edition",
+    "date": "2026-02-14",
+    "description": "Five-course candlelit dinner under the stars. Live acoustic guitar. Limited to 20 couples.",
+    "image": "https://images.unsplash.com/photo-1529566652340-2c41a1eb6d93?w=800&h=500&fit=crop",
+    "price": "K600 per couple"
+  }
+]

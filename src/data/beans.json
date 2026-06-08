@@ -1,0 +1,42 @@
+[
+  {
+    "id": "bean-01",
+    "name": "Zambean House Roast",
+    "origin": "Zambia & Ethiopia Blend",
+    "roast": "medium",
+    "description": "The beans behind every cup. Smooth, chocolatey, citrus finish. 250g.",
+    "price": 120,
+    "image": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=600&h=400&fit=crop",
+    "inStock": true
+  },
+  {
+    "id": "bean-02",
+    "name": "Single Origin — Zambia Northern",
+    "origin": "Northern Province, Zambia",
+    "roast": "light",
+    "description": "Bright, floral, stone fruit notes. Direct-trade from smallholder farms. 250g.",
+    "price": 140,
+    "image": "https://images.unsplash.com/photo-1587734195503-904fca47e0e5?w=600&h=400&fit=crop",
+    "inStock": true
+  },
+  {
+    "id": "bean-03",
+    "name": "Dark Roast — Espresso Blend",
+    "origin": "Zambia & Tanzania",
+    "roast": "dark",
+    "description": "Bold, intense, caramel and dark cocoa. Engineered for espresso. 250g.",
+    "price": 130,
+    "image": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefda?w=600&h=400&fit=crop",
+    "inStock": true
+  },
+  {
+    "id": "bean-04",
+    "name": "Decaf — Water Process",
+    "origin": "Zambia, Chemical-Free",
+    "roast": "medium",
+    "description": "All the flavor, none of the caffeine. Swiss Water Process. 250g.",
+    "price": 135,
+    "image": "https://images.unsplash.com/photo-1611854779393-1b2da9d400fe?w=600&h=400&fit=crop",
+    "inStock": true
+  }
+]
