@@ -1,0 +1,14 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/contact/route": "/api/contact",
+  "/api/reservations/route": "/api/reservations",
+  "/order/page": "/order",
+  "/page": "/",
+  "/reservations/page": "/reservations",
+  "/gallery/page": "/gallery",
+  "/beans/page": "/beans",
+  "/contact/page": "/contact",
+  "/events/page": "/events",
+  "/story/page": "/story",
+  "/menu/page": "/menu"
+}
